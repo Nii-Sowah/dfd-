@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ntaTWrmnpc08j6_hVR97">
+    <mxGraphModel dx="1014" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Household" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Collectors&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Aggregators&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Recycling Plant" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-5" edge="1" parent="1" source="CEBqv1kJfHWgXbRyrnlM-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="CEBqv1kJfHWgXbRyrnlM-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+            <mxPoint x="220" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-8" connectable="0" parent="CEBqv1kJfHWgXbRyrnlM-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Call" vertex="1">
+          <mxGeometry relative="1" x="-0.1633" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-9" edge="1" parent="1" source="CEBqv1kJfHWgXbRyrnlM-2" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CEBqv1kJfHWgXbRyrnlM-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="360" as="sourcePoint" />
+            <mxPoint x="480.71067811865476" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-10" connectable="0" parent="CEBqv1kJfHWgXbRyrnlM-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transport waste" vertex="1">
+          <mxGeometry relative="1" x="-0.036" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.56;entryY=-0.007;entryDx=0;entryDy=0;" target="CEBqv1kJfHWgXbRyrnlM-2" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.5134" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="220" />
+              <mxPoint x="360" y="220" />
+              <mxPoint x="360" y="280" />
+            </Array>
+            <mxPoint x="570" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-12" connectable="0" parent="CEBqv1kJfHWgXbRyrnlM-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pays" vertex="1">
+          <mxGeometry relative="1" x="-0.0159" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-14" edge="1" parent="1" source="CEBqv1kJfHWgXbRyrnlM-3" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CEBqv1kJfHWgXbRyrnlM-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450" y="420" as="sourcePoint" />
+            <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-15" connectable="0" parent="CEBqv1kJfHWgXbRyrnlM-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Send Recyclables" vertex="1">
+          <mxGeometry relative="1" x="-0.0618" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEBqv1kJfHWgXbRyrnlM-16" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Flow Current System&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="320" x="265" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
